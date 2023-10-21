@@ -1,0 +1,14 @@
+{
+  "name": "tsxh",
+  "version": "0.0.1",
+  "module": "index.ts",
+  "type": "module",
+  "dependencies": {
+    "bun": "latest",
+    "bun-types": "latest",
+    "typescript": "latest"
+  },
+  "scripts": {
+    "dev": "bun --hot index.ts"
+  }
+}
